@@ -1,2 +1,2 @@
-# randomaizer
-simple randomaizer on python
+# Randomaizer
+Simple randomaizer on python
